@@ -22,3 +22,7 @@ Displaying a playlist with the Spotify API
 10. Find the playlist ID. It is the string of characters after the /playlist/ in the URL when you go to share the playlist.
 
 11. Insert the Client ID and Client Secret along with the playlist ID into the correct locations in your code.
+
+12. Edit the CSS of both the index and app, page title, etc.
+
+13. There are plenty of features to try such as playlist generation, the Spotify web player, etc.
